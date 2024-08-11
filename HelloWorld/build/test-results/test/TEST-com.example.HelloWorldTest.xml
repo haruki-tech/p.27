@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-10T19:12:16" hostname="PCN1475CAL" time="0.061">
+  <properties/>
+  <testcase name="Ping test()" classname="com.example.HelloWorldTest" time="0.061"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
